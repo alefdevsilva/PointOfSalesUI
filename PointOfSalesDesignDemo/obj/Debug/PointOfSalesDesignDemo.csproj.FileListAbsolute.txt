@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\bin\Debug\PointOfSalesDesignDemo.exe.config
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\bin\Debug\PointOfSalesDesignDemo.exe
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\bin\Debug\PointOfSalesDesignDemo.pdb
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\obj\Debug\PointOfSalesDesignDemo.Form1.resources
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\obj\Debug\PointOfSalesDesignDemo.Properties.Resources.resources
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\obj\Debug\PointOfSalesDesignDemo.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\obj\Debug\PointOfSalesDesignDemo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\obj\Debug\PointOfSalesDesignDemo.exe
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\obj\Debug\PointOfSalesDesignDemo.pdb
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\obj\Debug\PointOfSalesDesignDemo.csproj.CopyComplete
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\obj\Debug\PointOfSalesDesignDemo.CustomsControls.btnProduct.resources
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\obj\Debug\PointOfSalesDesignDemo.CustomsControls.CartItem.resources
+C:\Users\DELL\source\repos\PointOfSalesDesignDemo\PointOfSalesDesignDemo\obj\Debug\PointOfSalesDesignDemo.csproj.AssemblyReference.cache
